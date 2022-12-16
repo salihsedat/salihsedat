@@ -28,7 +28,7 @@
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab"/>
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="160" height="80" /> 
   
- My Certifications :arrow_down:
+ ✨ My Certificates ✨:arrow_down:
 
 - [AWS Certified SysOps Administrator](https://www.credly.com/badges/44d4518c-a516-46f2-b8c5-cd52e6c8132c/public_url)
 - [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/065664a1-d702-43ba-b2c3-34fb40b24a59/public_url)
