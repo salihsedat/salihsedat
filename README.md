@@ -16,7 +16,7 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google"/>
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linux/linux-icon.svg" alt="linux"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"/>
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus"/>
@@ -25,7 +25,7 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" />
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gitlab/gitlab-icon.svg" alt="gitlab"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab"/>
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="160" height="80" /> 
   
  My Certifications :arrow_down:
