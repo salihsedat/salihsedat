@@ -1,4 +1,4 @@
-### Hi there, I'm Salih <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm Salih and I am a DevOps Engineer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning Maven
