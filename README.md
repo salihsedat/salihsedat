@@ -3,7 +3,7 @@
 - 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning Apache Maven
 - 💞️ I’m looking to collaborate on DevOps projects
-- 📫 How to reach me 
+- 📫 Reach me at
 [![Linkedin Badge](https://img.shields.io/badge/-salihsedat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salihsedat/)](https://www.linkedin.com/in/salihsedat/)
 
 [![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihsedat&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,8 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" />
   <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="bitbucket" width="160" height="60" />
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="160" height="80" />
-## 
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="160" height="80" /> 
   
  My Certifications :arrow_down:
 
