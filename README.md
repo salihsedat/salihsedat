@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ## My Certifications :arrow_down:
 
-- [AWS Certified SysOps Administrator](https://media-exp1.licdn.com/dms/image/C4D2DAQFmWJMLW78TaQ/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=VF9vSpwjLb26doBzifmN6QIZFVSEJAMvOWAiGh3Fzzo)
+- [AWS Certified SysOps Administrator](https://www.credly.com/badges/44d4518c-a516-46f2-b8c5-cd52e6c8132c/public_url)
 - [AWS Certified Solutions Architect Associate](https://media-exp1.licdn.com/dms/image/C4D2DAQHoFhvsfOPa5g/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=EZa7le_vjNz5nGFIuOKmJk-WuGnPjOQpWz615lcUniM)
 - [AWS Certified Developer Associate](https://media-exp1.licdn.com/dms/image/C4D2DAQGL_J8Rvg88cg/profile-treasury-image-shrink_480_480/0?e=1594677600&v=beta&t=ns1Pf3Eh9CDkLzcBDMz-LDWg9ArVMBOffdwSKhXzKzs) 
 - [AWS Certified Cloud Practitoner](https://media-exp1.licdn.com/dms/image/C4D2DAQGL_J8Rvg88cg/profile-treasury-image-shrink_480_480/0?e=1594677600&v=beta&t=ns1Pf3Eh9CDkLzcBDMz-LDWg9ArVMBOffdwSKhXzKzs) 
