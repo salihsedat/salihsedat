@@ -5,9 +5,6 @@
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 Reach me at
 [![Linkedin Badge](https://img.shields.io/badge/-salihsedat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salihsedat/)](https://www.linkedin.com/in/salihsedat/)
-
-[![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihsedat&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 <p align="left">
