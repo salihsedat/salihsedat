@@ -43,3 +43,6 @@
 - [AWS Certified Developer Associate](https://www.credly.com/badges/3fbcd22c-b6e8-4ec6-9dd1-b35e9da77442/public_url) 
 - [AWS Certified Cloud Practitoner](https://www.credly.com/badges/6b0d569f-a4b4-4190-8b47-7d1ffb53167f/public_url) 
 - [Hashicorp Certified Terraform Associate](https://www.credly.com/badges/5297ddab-c305-467d-996e-7cca472eaa2c/public_url) 
+
+[![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihsedat&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
