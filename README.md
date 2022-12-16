@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Salih</h1>
 
-- 👋 Hi, I’m @salihsedat
 - 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning Maven
 - 💞️ I’m looking to collaborate on DevOps projects
