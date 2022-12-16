@@ -1,7 +1,7 @@
 ### Hi there, I'm Salih and I am a DevOps Engineer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - 👀 I’m interested in DevOps Engineering
-- 🌱 I’m currently learning Maven
+- 🌱 I’m currently learning Apache Maven
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me 
 [![Linkedin Badge](https://img.shields.io/badge/-salihsedat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salihsedat/)](https://www.linkedin.com/in/salihsedat/)
