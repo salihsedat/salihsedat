@@ -43,3 +43,5 @@
 
 [![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihsedat&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
+![snake gif](https://github.com/sezginerdem/sezginerdem/blob/output/github-contribution-grid-snake.gif)
+  
