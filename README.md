@@ -1,4 +1,5 @@
 ### Hi there, I'm Salih and I am a DevOps Engineer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+Having 4+ years of experience in IT and 1 in DevOps passionate about automation of IT processes. HashiCorp Certified: Terraform Associate. AWS Certified SysOps Administrator, Developer and AWS Certified Solutions Architect Associate. Expert in designing and building effective Continuous Integration and Delivery (CI/CD) pipelines using containerization, orchestration, monitoring, infrastructure automation tools, configuration management tools, and AWS solutions. Able to use Jira as a project management tool and agile methodology as a project management method. Highly adaptable, flexible professional DevOps engineer who embraces teamwork but also likes to work independently. Armed with remarkable problem solving, multitasking, and time management abilities. 
 
 - 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning Apache Maven
