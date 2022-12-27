@@ -20,8 +20,8 @@ Having 4+ years of experience in IT and 1 in DevOps passionate about automation 
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"/>
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana"/>
+  <img src="https://www.vectorlogo.zone/logos/maven/maven-ar21.svg" alt="maven"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus"/>
-  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="gradle"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="100"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" />
