@@ -30,7 +30,7 @@ Having 4+ years of experience in IT and 1 in DevOps passionate about automation 
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="160" height="80" /> 
   
    <font size="7"> ✨ My Certificates ✨:arrow_down: </font>
-
+- [CKA: Certified Kubernetes Administratir](https://www.credly.com/badges/0e162be4-77d4-4302-8551-d8d3d05d4905/public_url)
 - [AWS Certified SysOps Administrator](https://www.credly.com/badges/44d4518c-a516-46f2-b8c5-cd52e6c8132c/public_url)
 - [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/065664a1-d702-43ba-b2c3-34fb40b24a59/public_url)
 - [AWS Certified Developer Associate](https://www.credly.com/badges/3fbcd22c-b6e8-4ec6-9dd1-b35e9da77442/public_url) 
